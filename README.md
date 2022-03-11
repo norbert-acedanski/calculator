@@ -1,4 +1,4 @@
-# gcd
+# calculator
 
 # About The Project
 Very old calculator of mine.
